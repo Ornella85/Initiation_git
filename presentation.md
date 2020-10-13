@@ -15,12 +15,12 @@ Git logiciel de contrôle de version
     on ne peut les utiliser uniquement si on a téléchargé Git
 
     Un dépot ou repository : répétoire ou espace de stockage dédié à un projet
-    sauvegarde en ligne ou en local. peut contenir des images, fichiers textes, code
+                             sauvegarde en ligne ou en local. peut contenir des images, fichiers textes, code
 
     Git contrôle de version est ce pourquoi il a été crée, permet un instatané d'un travail en plus de ceux déjà stockés
 
     Commit:  la commande qui permet de sauvegarder en local , en instatané
-    Branch, c'est l'espace personnel sur lequel on travaille.
+    Branch: c'est l'espace personnel sur lequel on travaille.
 
     Ligne de commande: Git Init : initialise un nouveau dépot
                        Git Config : permet de configurer, permet d'entrer ses identifiant github
